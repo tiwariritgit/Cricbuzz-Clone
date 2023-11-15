@@ -63,6 +63,7 @@ function HomeCarousel() {
       })}
       
     </Carousel>
+    
   );
 }
 export default HomeCarousel;
